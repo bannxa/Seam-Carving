@@ -22,6 +22,7 @@ COLOR_DANGER = "#FF4B4B"    # clear
 COLOR_TEXT_MAIN = "#FFFFFF"
 COLOR_TEXT_SUB = "#AAAAAA"
 
+#main class
 class SeamCarvingApp(ctk.CTk):
     def __init__(self):
         super().__init__()
